@@ -1,0 +1,32 @@
+body {
+  background-color: #000000;
+  overflow: hidden;
+}
+body .render-time {
+  position: fixed;
+  bottom: 0;
+  padding: 6px;
+  opacity: 0.75;
+  color: #ffffff;
+  font-family: monospace;
+  font-size: 12px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}
+body .toggle-btn {
+  position: fixed;
+  top: 0;
+  min-width: 120px;
+  padding: 6px;
+  border: none;
+  outline: none;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: left;
+  letter-spacing: 0.03em;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}/*# sourceMappingURL=style.css.map */
